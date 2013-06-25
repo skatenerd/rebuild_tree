@@ -1,10 +1,6 @@
 # rebuild_tree
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+Solving the problem presented here: http://www.cs.tufts.edu/~nr/cs257/archive/chris-okasaki/breadth-first.pdf
 
 ## License
 
